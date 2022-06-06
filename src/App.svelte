@@ -53,14 +53,9 @@ import TabsNavigator from "./TabsNavigator.svelte";
         Made by Y.A.H :) 
         using PaperCSS, Vite and Svelte-ts
       </div>
-
     </div>
-
   </div>
- 
 </main>
-
-
 <style>
   main {
     background-color: rgb(0,0,0,.2);
@@ -70,6 +65,12 @@ import TabsNavigator from "./TabsNavigator.svelte";
     padding: 0 5rem;
     min-width: 100vw;
     min-height: 100vh;
+  }
+  :global(div) {
+    overflow: hidden;
+  }
+  :global(main) {
+    overflow: hidden;
   }
 
 #header {
