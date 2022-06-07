@@ -120,8 +120,8 @@ import TabsNavigator from "./TabsNavigator.svelte";
 
   .content {
 
-    background: linear-gradient( rgba(126, 233, 236, 0.829), rgba(182, 118, 58, 0.527), rgba(170, 3, 3, 0.705), rgb(0,0,0,.2));
+    background: linear-gradient(  rgba(167, 160, 160, 0.541), rgba(126, 233, 236, 0.829), rgba(182, 118, 58, 0.527), rgba(170, 3, 3, 0.705), rgba(167, 160, 160, 0.541));
     background: linear-gradient(rgba(107, 94, 94, 0.205), rgba(78, 132, 212, 0.671),rgb(0,0,0,.2));
 
   }
-</style>&
+</style>
