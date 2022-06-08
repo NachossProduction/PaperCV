@@ -16,7 +16,9 @@
         <h3>
             <li>Rapping</li>
             <li>Playing Chess</li>
-            <li>Music - Guitar Playing - Fingerstyle </li>
+            <li>Music </li>
+            <!-- <li></li> -->
+            <li>Guitar Playing - Fingerstyle </li>
             <!-- <li> Domains</li> -->
             <li>Mathematics</li>
             <li>Physics</li>
