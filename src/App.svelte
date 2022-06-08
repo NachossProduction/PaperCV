@@ -58,7 +58,7 @@ import TabsNavigator from "./TabsNavigator.svelte";
 </main>
 <style>
   main {
-    background-color: rgba(19, 10, 61, 0.87) ;
+    background-color: rgba(10, 4, 39, 0.89) ;
     color: black;
     text-align:center;
     text-decoration: solid 2px goldenrod;
