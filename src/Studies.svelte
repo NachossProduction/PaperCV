@@ -3,7 +3,7 @@
     -->
     <h1 > ETUDES </h1>
 
-<div  class="paper container">
+<div  class=" container">
     <ul class="col">
         <li>[ ApprenticeShip - Alternance ]</li>
 

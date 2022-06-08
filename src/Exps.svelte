@@ -3,7 +3,7 @@
     -->
     <h1 > EXPERIENCES </h1>
 
-<div  class="paper container">
+<div  class=" container">
 
     <h3>Etudes de cas</h3>
     <ul class="col">
@@ -89,7 +89,7 @@
         </h4>
 
                 <li><p>Projet Bank: Java JEE :
-                        - working with Spring Boot, Hibernate, XML, JavaBeans, JSPages and others
+                        - working with Spring Boot, Hibernate, XML, JavaBeans, JSPages and JSFaces
                         - Conception UML
                         - Modèle View Controller
                         - Travail en équipe

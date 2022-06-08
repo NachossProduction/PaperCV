@@ -59,13 +59,19 @@ import TabsNavigator from "./TabsNavigator.svelte";
 <style>
   main {
     background-color: rgba(10, 4, 39, 0.89) ;
-    color: black;
+      background-image: url(https://img5.goodfon.com/wallpaper/nbig/a/83/bumaga-fon-kraski-colorful-akvarel-texture-background-pape-6.jpg);
+
+    /* background-image: url(https://images.unsplash.com/photo-1537420327992-d6e192287183?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80); */
+    background-repeat: no-repeat;
+  background-clip: border-box;
+  background-size: cover;
+    color:rgb(94, 100, 105);
     text-align:center;
     text-decoration: solid 2px goldenrod;
     margin:auto;
     padding: 0 5rem;
-    min-width: 100vw;
-    min-height: 100vh;
+    min-width: 100%;
+    min-height: 100%;
   }
   :global(div) {
     overflow: hidden;
@@ -95,9 +101,8 @@ import TabsNavigator from "./TabsNavigator.svelte";
 .bg-sheet {
   border-top-right-radius: 5vh;
   border-bottom-left-radius: 5vh;
-  background-color: rgba(144, 144, 143, 0.799);
-  background-image: url(https://img5.goodfon.com/wallpaper/nbig/a/83/bumaga-fon-kraski-colorful-akvarel-texture-background-pape-6.jpg);
-  background-repeat: no-repeat;
+  background-color: rgba(103, 184, 184, 0.438);
+ background-repeat: no-repeat;
   background-clip: border-box;
   background-size: cover;
 }

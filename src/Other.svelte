@@ -3,7 +3,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.min.js">
 </head>
 <h1>Hobbies</h1> 
-<div class="paper container col">
+<div class=" container col">
 
     
     <p>
