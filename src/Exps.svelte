@@ -6,7 +6,7 @@
 <div  class="paper container">
 
     <h3>Etudes de cas</h3>
-    <ul class="row">
+    <ul class="col">
         <li>[ ApprenticeShip - Alternance ]</li>
         <h4>
             <ul>
@@ -56,16 +56,16 @@
     </ul>
 
 
-    <ul class="row">
+    <ul class="col">
         <li>[ Licence 3 STS Informatique ]</li>
         <h4>
-            <ul>
+
                 <li>-> Chez ULCO  </li>
                 <li>-> Calais</li>
-            </ul>
+
     
         </h4>
-        <ul>
+
             <li>
                 <p>
                     Projet de Groupe de 3 eme Année:
@@ -73,10 +73,10 @@
                     Puis de construire différents algorithmes qui devaient définir les actions de 'l'ordinateur' lorsqu'il répondait aux mouvement du joueur.
                 </p>
             </li>
-        </ul>
+
     </ul>
 
-    <ul class="row">
+    <ul class="col">
         <li>[ 2018 ]</li>
         <h4>
             <ul>
@@ -87,16 +87,14 @@
             </ul>
     
         </h4>
-        <ul>
-            <ul>
+
                 <li><p>Projet Bank: Java JEE :
                         - working with Spring Boot, Hibernate, XML, JavaBeans, JSPages and others
                         - Conception UML
                         - Modèle View Controller
                         - Travail en équipe
                 </p></li>
-            </ul>
-        </ul>
+
     </ul>
 
 </div>
@@ -104,7 +102,7 @@
 
 <div>
     <p >Platon: Connais toi , toi-même </p>
-    <p >Platon: Ce que je sais, c'est que je ne sais rien.</p>
+    <!-- <p >Platon: Ce que je sais, c'est que je ne sais rien.</p> -->
 </div>
    
    

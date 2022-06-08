@@ -4,7 +4,7 @@
     <h1> Competences </h1>
 
 
-<div  class="paper container col col-fill ">
+<div  class=" container col  ">
     <h4>
         <p>
             Auto/Personnal Grading
@@ -40,7 +40,7 @@
 </div>
   
 
-<div  class="col col-fill ">
+<div  class="col  ">
     <div>
         <p class="text-lead">Notions : Color Legend </p>
         <p>...Least Mastered (red) to Generally fluent (blue)...</p>
@@ -78,7 +78,7 @@
 
 <div>
     <p >Platon: Connais toi , toi-même </p>
-    <p >Platon: Ce que je sais, c'est que je ne sais rien.</p>
+    <!-- <p >Platon: Ce que je sais, c'est que je ne sais rien.</p> -->
 </div>
    
    
