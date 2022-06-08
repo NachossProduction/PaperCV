@@ -29,7 +29,7 @@ import TabsNavigator from "./TabsNavigator.svelte";
 
         <div class="col sm-3"> Curriculum Vitae </div>
         <div class="box sm-6">        
-          Younes Anis Harrat
+          <h1>Younes Anis Harrat</h1> YA.H
         </div>
         <div class="col sm-3">  Web Developper </div>
     </div>
